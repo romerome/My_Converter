@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My_Converter</string>
+    <string name="top">Liters</string>
+    <string name="okay">OK</string>
+    <string name="gallo">Gallons</string>
+    <string name="ok">Ok</string>
+</resources>
